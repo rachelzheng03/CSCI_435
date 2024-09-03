@@ -17,3 +17,4 @@ The python script takes two positional command line arguments and one optional c
  ```
  python ui_feature_highlighter.py "com.yelp.android.xml" "com.yelp.android.png"
  ```
+<img src="./for_readme/without_save_example.png" width="800">
